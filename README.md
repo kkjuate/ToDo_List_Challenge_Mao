@@ -46,6 +46,13 @@ This section has moved here:
 
 -----
 
+**Personal section**
+
+As for me, I like to learn new things. I try to stand out and help where I can and if possible, implement new ideas for a better development of activities.
+
+I do not see myself very clear in 5 years, I feel that in the direction I am, can vary a lot, however, the possibility of continuing to learn will always be in me and to aspire to a better and profitable work as well.
+
+
 Diego Castillo
 ToDo List - MernApp
 Test Challenge
